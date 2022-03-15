@@ -57,6 +57,8 @@ button {
 
 .pricing {
   margin: 10px;
+  height: 300px;
+  width: 400px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -64,4 +66,17 @@ button {
 
 .best-price {
   text-transform: uppercase;
+}
+
+.title {
+  margin: 20px;
+}
+
+.paragraph {
+  padding-top: 20px;
+}
+
+.best-price {
+  margin-top: 20px;
+  padding: 10px 0 0 10px;
 }
